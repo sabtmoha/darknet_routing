@@ -1,2 +1,1 @@
-# darknet_routing
-Routing in the dark
+Dynamic routing in a peer-to-peer (P2P) network that follows the small-world structure.
